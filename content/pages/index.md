@@ -32,6 +32,7 @@ sections:
             - pl-4
             - pr-4
             - pt-4
+            - pb-4
     elementId: ''
     colors: bg-light-fg-dark
     styles:
