@@ -110,8 +110,8 @@ sections:
       styles:
         self:
           padding:
-            - pt-20
-            - pb-20
+            - pt-8
+            - pb-8
             - pl-20
             - pr-20
           borderColor: border-dark
