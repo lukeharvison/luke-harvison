@@ -7,7 +7,7 @@ sections:
       text: Personal Website for Luke Harvison
       color: text-dark
       type: TitleBlock
-    subtitle: subtitle i gues
+    subtitle: ju
     text: |
       Hello, world.
     actions:
