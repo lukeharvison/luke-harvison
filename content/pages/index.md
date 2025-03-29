@@ -29,10 +29,10 @@ sections:
       styles:
         self:
           padding:
-            - pl-3
-            - pr-3
-            - pt-3
-            - pb-3
+            - pl-0
+            - pr-0
+            - pt-0
+            - pb-0
           margin:
             - mt-2
             - ml-2
