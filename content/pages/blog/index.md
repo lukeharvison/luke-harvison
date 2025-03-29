@@ -1,6 +1,6 @@
 ---
 title: Blog
-slug: /blog
+slug: /articles
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
