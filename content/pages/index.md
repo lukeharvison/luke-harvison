@@ -7,7 +7,7 @@ sections:
       text: Personal Website for Luke Harvison
       color: text-dark
       type: TitleBlock
-    subtitle: Blog n shit
+    subtitle: subtitle i guess
     text: |
       Hello, world.
     actions:
