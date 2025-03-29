@@ -13,7 +13,7 @@ sections:
     actions:
       - label: Visit articles
         altText: ''
-        url: /
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
