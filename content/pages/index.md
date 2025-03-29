@@ -110,7 +110,7 @@ sections:
       styles:
         self:
           padding:
-            - pt-20
+            - pt-8
             - pb-20
             - pl-20
             - pr-20
