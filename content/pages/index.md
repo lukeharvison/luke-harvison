@@ -134,7 +134,7 @@ sections:
       type: Badge
       styles:
         self:
-          textAlign: right
+          textAlign: left
     colors: bg-light-fg-dark
     type: GenericSection
     styles:
