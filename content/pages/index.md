@@ -129,6 +129,9 @@ sections:
       label: sub for more
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: right
     colors: bg-light-fg-dark
     type: GenericSection
     styles:
