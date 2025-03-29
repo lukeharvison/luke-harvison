@@ -91,6 +91,9 @@ sections:
       text: Subscribe
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: right
     subtitle: Get pinged in the inbox
     text: |
       Testing the waters with a subscribe box...
