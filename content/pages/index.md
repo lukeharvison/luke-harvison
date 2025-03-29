@@ -34,10 +34,10 @@ sections:
             - pt-3
             - pb-3
           margin:
-            - mt-3
-            - ml-3
-            - mb-3
-            - mr-3
+            - mt-2
+            - ml-2
+            - mb-2
+            - mr-2
     elementId: ''
     colors: bg-light-fg-dark
     styles:
