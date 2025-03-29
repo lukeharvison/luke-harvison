@@ -29,16 +29,21 @@ sections:
       styles:
         self:
           padding:
-            - pl-8
-            - pr-8
-            - pt-8
-            - pb-8
+            - pl-0
+            - pr-0
+            - pt-0
+            - pb-0
+          margin:
+            - mt-0
+            - ml-0
+            - mb-0
+            - mr-0
     elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: row
         padding:
           - pt-16
           - pl-16
