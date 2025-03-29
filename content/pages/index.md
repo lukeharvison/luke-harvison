@@ -91,6 +91,9 @@ sections:
       text: Subscribe
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: left
     subtitle: Get pinged in the inbox
     text: |
       Testing the waters with a subscribe box...
@@ -107,10 +110,10 @@ sections:
       styles:
         self:
           padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
+            - pt-20
+            - pb-20
+            - pl-20
+            - pr-20
           borderColor: border-dark
           borderStyle: solid
           borderWidth: 1
@@ -129,6 +132,9 @@ sections:
       label: sub for more
       color: text-primary
       type: Badge
+      styles:
+        self:
+          textAlign: left
     colors: bg-light-fg-dark
     type: GenericSection
     styles:
