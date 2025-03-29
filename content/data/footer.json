@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Contact",
-                "altText": "careers page",
+                "altText": "contact page",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
