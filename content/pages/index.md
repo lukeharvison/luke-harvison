@@ -89,7 +89,7 @@ sections:
       type: TitleBlock
     subtitle: Get pinged in the inbox
     text: |
-      Uhhhhh more text
+      Testing the waters with a subscribe box...
     media:
       fields:
         - name: email
