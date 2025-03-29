@@ -29,7 +29,7 @@ sections:
       styles:
         self:
           padding:
-            - pl-8
+            - pl-4
     elementId: ''
     colors: bg-light-fg-dark
     styles:
