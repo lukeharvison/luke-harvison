@@ -93,7 +93,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: right
+          textAlign: left
     subtitle: Get pinged in the inbox
     text: |
       Testing the waters with a subscribe box...
