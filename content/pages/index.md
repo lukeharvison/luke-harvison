@@ -7,7 +7,7 @@ sections:
       text: Personal Website for Luke Harvison
       color: text-dark
       type: TitleBlock
-    subtitle: Just some thoughts
+    subtitle: CS @ Vandy. BHM -> Nashville
     text: |
       Felt like i needed a site
     actions:
