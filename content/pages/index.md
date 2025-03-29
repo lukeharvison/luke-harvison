@@ -11,7 +11,7 @@ sections:
     text: |
       Hello, world.
     actions:
-      - label: Get started
+      - label: Visit articles
         altText: ''
         url: /
         showIcon: false
