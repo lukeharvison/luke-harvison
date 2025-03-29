@@ -29,10 +29,10 @@ sections:
       styles:
         self:
           padding:
-            - pl-8
-            - pr-8
-            - pt-8
-            - pb-8
+            - pl-6
+            - pr-6
+            - pt-6
+            - pb-6
     elementId: ''
     colors: bg-light-fg-dark
     styles:
