@@ -19,7 +19,7 @@
             },
             {
                 "label": "Articles",
-                "url": "/articles",
+                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
