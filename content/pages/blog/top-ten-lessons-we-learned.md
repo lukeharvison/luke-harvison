@@ -1,5 +1,5 @@
 ---
-title: Working on a title..
+title: Disparate Reflections
 slug: top-ten-lessons-we-learned
 date: '2025-03-29'
 excerpt: >-
