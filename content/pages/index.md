@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Personal website for Luke Harvison
+      text: Personal Website for Luke Harvison
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
