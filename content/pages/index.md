@@ -139,7 +139,7 @@ sections:
     type: GenericSection
     styles:
       self:
-        justifyContent: flex-end
+        justifyContent: flex-start
         alignItems: center
 seo:
   metaTitle: Home - Demo site
