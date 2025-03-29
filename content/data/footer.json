@@ -50,7 +50,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/mailto:",
+            "url": "/mailto:chooseluke@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
