@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Reach out to me here
+      text: Feel free to reach out to me!
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
