@@ -113,7 +113,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Subscribe
         showIcon: false
         icon: arrowRight
         iconPosition: right
