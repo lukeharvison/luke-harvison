@@ -45,13 +45,11 @@ sections:
           - pb-16
           - pr-16
   - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
+      - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
     showDate: true
     showAuthor: true
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -63,6 +61,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+    showExcerpt: true
   - title: Divider
     colors: bg-light-fg-dark
     styles:
