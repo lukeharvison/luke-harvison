@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Just some thoughts
     text: |
-      Hello, world.
+      Felt like i needed a site
     actions:
       - label: Visit articles
         altText: ''
