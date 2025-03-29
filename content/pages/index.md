@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Visit articles
         altText: ''
-        url: /articles
+        url: /blog
         showIcon: false
         icon: arrowRight
         iconPosition: right
