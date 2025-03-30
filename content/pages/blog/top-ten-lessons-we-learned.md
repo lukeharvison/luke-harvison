@@ -18,6 +18,7 @@ seo:
   type: Seo
   metaTitle: Disparate Reflections
   metaDescription: Disparate Reflections
+  socialImage: /images/fracturedglass.jpg
 colors: bg-light-fg-dark
 styles:
   self:
