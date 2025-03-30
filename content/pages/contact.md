@@ -7,12 +7,8 @@ sections:
       type: TitleBlock
       text: Feel free to reach out to me!
       color: text-dark
-    subtitle: Contact me in any of these forms
-    text: |+
-      Contact me here:
-
-      Email: chooseluke\@gmail.com
-
+    subtitle: Contact me using this form.
+    text: "Or here \U0001F447\_\n\nEmail: <chooseluke@gmail.com>\n"
     actions: []
     media:
       type: FormBlock
