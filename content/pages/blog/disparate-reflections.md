@@ -1,6 +1,6 @@
 ---
 title: Disparate Reflections
-slug: top-ten-lessons-we-learned
+slug: disparate-reflections
 date: '2025-03-29'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
