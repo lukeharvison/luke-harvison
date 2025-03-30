@@ -8,11 +8,10 @@ sections:
       text: Feel free to reach out to me!
       color: text-dark
     subtitle: Contact me using this form.
-    text: |+
-      Contact me here:
+    text: |
+      Or here:
 
-      Email: chooseluke\@gmail.com
-
+      Email: <chooseluke@gmail.com>
     actions: []
     media:
       type: FormBlock
