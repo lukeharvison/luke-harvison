@@ -2,10 +2,7 @@
 title: Disparate Reflections
 slug: disparate-reflections
 date: '2025-03-29'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: Some reflections on my experiences growing up
 featuredImage:
   url: /images/fracturedglass.jpg
   altText: Thumbnail
