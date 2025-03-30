@@ -50,7 +50,6 @@ sections:
           - pb-16
           - pr-16
   - posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/disparate-reflections.md
     showThumbnail: true
     showDate: true
