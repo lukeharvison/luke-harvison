@@ -144,7 +144,7 @@ sections:
 seo:
   metaTitle: Home - Luke Harvison
   metaDescription: Just some reflections
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/profilepic.jpg
   type: Seo
 type: PageLayout
 ---
