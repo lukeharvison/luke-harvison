@@ -17,6 +17,7 @@ isFeatured: false
 seo:
   type: Seo
   metaTitle: Disparate Reflections
+  metaDescription: Disparate Reflections
 colors: bg-light-fg-dark
 styles:
   self:
