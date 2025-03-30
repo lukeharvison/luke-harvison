@@ -142,7 +142,7 @@ sections:
         justifyContent: center
         alignItems: center
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Home - Luke Harvison
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
