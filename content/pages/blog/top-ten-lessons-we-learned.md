@@ -16,6 +16,7 @@ featuredImage:
 isFeatured: false
 seo:
   type: Seo
+  metaTitle: Disparate Reflections
 colors: bg-light-fg-dark
 styles:
   self:
