@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Articles
 slug: /blog
 numOfPostsPerPage: 6
 enableSearch: false
@@ -8,10 +8,8 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+  metaTitle: Articles - Luke Harvison
+  metaDescription: Articles by Luke Harvison
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
