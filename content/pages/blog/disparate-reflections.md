@@ -1,6 +1,6 @@
 ---
 title: Disparate Reflections
-slug: top-ten-lessons-we-learned
+slug: disparate-reflections
 date: '2025-03-29'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
@@ -15,10 +15,10 @@ featuredImage:
       borderRadius: medium
 isFeatured: false
 seo:
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
   type: Seo
+  metaTitle: Disparate Reflections
+  metaDescription: Disparate Reflections
+  socialImage: /images/fracturedglass.jpg
 colors: bg-light-fg-dark
 styles:
   self:
