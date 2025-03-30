@@ -49,8 +49,19 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
   - posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/disparate-reflections.md
     showThumbnail: true
     showDate: true
     showAuthor: true
@@ -142,9 +153,9 @@ sections:
         justifyContent: center
         alignItems: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home - Luke Harvison
+  metaDescription: Just some reflections
+  socialImage: /images/profilepic.jpg
   type: Seo
 type: PageLayout
 ---
