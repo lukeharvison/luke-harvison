@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Feel free to reach out to me!
       color: text-dark
-    subtitle: Contact me using this form
+    subtitle: Contact me using this form.
     text: |+
       Contact me here:
 
