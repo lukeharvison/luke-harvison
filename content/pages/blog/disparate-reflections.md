@@ -10,7 +10,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-isFeatured: true
+isFeatured: false
 seo:
   type: Seo
   metaTitle: Disparate Reflections
