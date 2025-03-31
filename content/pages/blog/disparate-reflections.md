@@ -1,5 +1,5 @@
 ---
-title: Disparate Reflections
+title: Reflections
 slug: disparate-reflections
 date: '2025-03-29'
 excerpt: Some reflections on my experiences growing up
