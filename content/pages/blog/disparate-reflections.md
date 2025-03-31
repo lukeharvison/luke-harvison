@@ -22,6 +22,7 @@ styles:
     flexDirection: col-reverse
 type: PostLayout
 author: content/data/person1.json
+isDraft: true
 ---
 The goal of this piece is to hopefully connect some dots that originate in domains that might seem disparate.
 
