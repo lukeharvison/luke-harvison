@@ -7,7 +7,7 @@ sections:
       text: Personal Website for Luke Harvison
       color: text-dark
       type: TitleBlock
-    subtitle: CS @ Vandy. BHM -> Nashville
+    subtitle: Computer Science @ Vanderbilt
     text: ''
     actions: []
     media:
