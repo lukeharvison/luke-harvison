@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Articles",
-            "altText": "Articles",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Contact",
             "altText": "",
