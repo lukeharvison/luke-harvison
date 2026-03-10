@@ -9,16 +9,7 @@ sections:
       type: TitleBlock
     subtitle: CS @ Vandy. BHM -> Nashville
     text: ''
-    actions:
-      - label: Visit articles
-        altText: ''
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/profilepic.jpg
       altText: Unblock your team boost your time to production preview
