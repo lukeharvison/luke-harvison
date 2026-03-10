@@ -8,9 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: CS @ Vandy. BHM -> Nashville
-    text: >
-      Interested in personal health and business. Always down to meet cool
-      people.
+    text: ''
     actions:
       - label: Visit articles
         altText: ''
