@@ -49,8 +49,7 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - posts:
-      - content/pages/blog/disparate-reflections.md
+  - posts: []
     showThumbnail: true
     showDate: true
     showAuthor: true
