@@ -6,7 +6,7 @@
     },
     "text": "Luke Harvison\n",
     "secondaryLinks": {
-        "title": "HARVISON HOLDINGS",
+        "title": "Links",
         "links": [
             {
                 "label": "Contact",
@@ -16,15 +16,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "label": "Articles",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "Articles page"
             }
         ],
         "type": "FooterLinksGroup"
@@ -73,7 +64,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
