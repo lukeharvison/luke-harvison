@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Articles",
-            "altText": "Articles",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Contact",
             "altText": "",
@@ -33,17 +24,7 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [
-        {
-            "label": "Subscribe",
-            "altText": "Subscribe",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
     "type": "Header"
