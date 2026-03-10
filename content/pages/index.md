@@ -49,16 +49,6 @@ sections:
           - pl-3
           - pb-3
           - pr-3
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
       text: Subscribe
       color: text-dark
